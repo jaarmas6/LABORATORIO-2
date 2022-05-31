@@ -44,3 +44,11 @@ SIMULACIÓN DE LA MEDICIÓN DE CORRIENTE
 
 **BIBLIOGRAFÍA**
 
+Análisis de circuitos en ingeniería. (s.f.). Obtenido de https://analisisdecircuitos1.wordpress.com/parte-1-circuitos-resistivos-cap-21-a-30-en-construccion/capitulo-21-analisis-de-mallas/
+
+Gómez, J. A. (28 de Mayo de 2009). Universidad Uniandes. Obtenido de http://wwwprof.uniandes.edu.co/~ant-sala/cursos/FDC/Contenidos/03_Analisis_por_Nodos_y_Mallas.pdf
+
+Méndez, A. (s.f.). Academia.edu. Obtenido de https://www.academia.edu/26497162/ANALISIS_DE_MALLA
+
+
+
