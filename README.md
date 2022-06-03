@@ -31,15 +31,15 @@ Comprender  el método de análisis de mallas, y  lograr establecer una relació
 
 ### Resultados Experimentales
 
-**Malla 1
+**Malla 1**
 
 ![image](https://user-images.githubusercontent.com/105606339/171786929-1d714426-92cb-43ae-b18c-aaea3f9cd70a.png)
 
-**Malla 2
+**Malla 2**
 
 ![image](https://user-images.githubusercontent.com/105606339/171786992-373f5fbe-4357-42d5-8153-ecd34f987798.png)
 
-**Malla 3
+**Malla 3**
 
 ![image](https://user-images.githubusercontent.com/105606339/171787020-5a9511a1-eafe-4f14-a332-a25f5b2815c6.png)
 
@@ -52,29 +52,29 @@ Comprender  el método de análisis de mallas, y  lograr establecer una relació
 
 ![image](https://user-images.githubusercontent.com/105606339/171789734-70690449-2728-4868-82f7-e7ab808bc77b.png)
 
-**Ecuaciones de malla 1
+**Ecuaciones de malla 1**
 
 ![image](https://user-images.githubusercontent.com/105606339/171789819-e2da66e2-5b9c-4bfc-915b-7c069e7fdb07.png)
 
-**Ecuaciones de malla 2
+**Ecuaciones de malla 2**
 
 ![image](https://user-images.githubusercontent.com/105606339/171789861-d07e8d02-d2f3-4733-bad0-ab4a9a73e9ad.png)
 
-**Ecuaciones de malla 3
+**Ecuaciones de malla 3**
 
 ![image](https://user-images.githubusercontent.com/105606339/171789881-c1957cae-9fe2-4044-b4fb-c29ce355374d.png)
 
-**Solución del sistema de ecuaciones
+**Solución del sistema de ecuaciones**
 
 ![image](https://user-images.githubusercontent.com/105606339/171791618-24245490-e16c-42bf-bfc5-bc61b779ba86.png)
 
 ![image](https://user-images.githubusercontent.com/105606339/171791653-419f89b9-9684-42b9-b8b2-d57b2b2c6acb.png)
 
-**Resultados del cálculo de I1, I2, I3
+**Resultados del cálculo de I1, I2, I3**
 
 ![image](https://user-images.githubusercontent.com/105606339/171789992-dea1d9dc-edec-40c3-ac49-b1ecc7a15d0b.png)
 
-**Tabla de resultados obtenidos para el circuito
+**Tabla de resultados obtenidos para el circuito**
 
 ![image](https://user-images.githubusercontent.com/105606339/171793442-1d407e7e-b77a-48ec-bdce-c98f0c807a62.png)
 
