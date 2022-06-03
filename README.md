@@ -73,6 +73,8 @@ Tabla de resultados obtenidos para el circuito
 
 ![image](https://user-images.githubusercontent.com/105606339/171793442-1d407e7e-b77a-48ec-bdce-c98f0c807a62.png)
 
+
+
 **RESPUESTA A INTERROGANTES Y CÁLCULO DE ERROR**
 
 Resultados analíticos y resultados experimentales
@@ -83,9 +85,12 @@ Resultados analíticos y resultados simulados
 
 ![image](https://user-images.githubusercontent.com/105606339/171792767-bdcab312-29b1-4194-a5e9-5cf50cf022b7.png)
 
+
 **VIDEO**
 
 **CONCLUSIONES**
+
+
 
 **BIBLIOGRAFÍA**
 
