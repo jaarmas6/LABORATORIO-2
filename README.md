@@ -92,9 +92,13 @@ Comprender  el método de análisis de mallas, y  lograr establecer una relació
 
 ## VIDEO
 
+https://www.youtube.com/watch?v=lXq4zra70gM
+
 ## CONCLUSIONES
 
-
+-Con la ayuda de las leyes de Kirchhoff se pudo realizar el cálculo de las corrientes del circuito.
+- Al armar el circuito físicamente nos ayudó a una mayor comprensión del tema.
+-Con el circuito armado físicamente, simulado y analizado teóricamente se logró comparar las diferencias y el margen de error entre ellos.
 
 ## BIBLIOGRAFÍA 
 
