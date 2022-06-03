@@ -22,21 +22,66 @@ MATERIAL Y EQUIPO REQUERIDO
 - 1 Resistor de 1kΩ
 - 1 Resistor de 1.2kΩ
 - 1 Resistor de 2.2kΩ
-- 1 Protoboard
+- 1  Protoboard
 
-CÁLCULO DEL LAS CORRIENTES DE LAS MALLAS
+RESULTADO EXPERIMENTALES
 
-![image](https://user-images.githubusercontent.com/105606339/171097883-b80a1f4a-afec-477a-a7af-176894779a4f.png)
+Malla 1
+
+![image](https://user-images.githubusercontent.com/105606339/171786929-1d714426-92cb-43ae-b18c-aaea3f9cd70a.png)
+
+malla 2
+
+![image](https://user-images.githubusercontent.com/105606339/171786992-373f5fbe-4357-42d5-8153-ecd34f987798.png)
+
+Malla 3
+
+![image](https://user-images.githubusercontent.com/105606339/171787020-5a9511a1-eafe-4f14-a332-a25f5b2815c6.png)
 
 
+RESULTADOS SIMULADOS
 
+![image](https://user-images.githubusercontent.com/105606339/171780016-c20d1fa9-2f27-4a31-b729-5ffb0497bd9a.png)
 
-SIMULACIÓN DE LA MEDICIÓN DE CORRIENTE 
+RESULTADOS ANALÍTICOS
 
-![image](https://user-images.githubusercontent.com/105606339/171097357-c07b69a2-10bb-41a3-bc68-8d7c886f4c1e.png)
+![image](https://user-images.githubusercontent.com/105606339/171789734-70690449-2728-4868-82f7-e7ab808bc77b.png)
 
+Ecuaciones de malla 1 
+
+![image](https://user-images.githubusercontent.com/105606339/171789819-e2da66e2-5b9c-4bfc-915b-7c069e7fdb07.png)
+
+Ecuaciones de malla 2
+
+![image](https://user-images.githubusercontent.com/105606339/171789861-d07e8d02-d2f3-4733-bad0-ab4a9a73e9ad.png)
+
+Ecuaciones de malla 3
+
+![image](https://user-images.githubusercontent.com/105606339/171789881-c1957cae-9fe2-4044-b4fb-c29ce355374d.png)
+
+Solución del sistema de ecuaciones
+
+![image](https://user-images.githubusercontent.com/105606339/171791618-24245490-e16c-42bf-bfc5-bc61b779ba86.png)
+
+![image](https://user-images.githubusercontent.com/105606339/171791653-419f89b9-9684-42b9-b8b2-d57b2b2c6acb.png)
+
+Resultados del cálculo de I1, I2, I3
+
+![image](https://user-images.githubusercontent.com/105606339/171789992-dea1d9dc-edec-40c3-ac49-b1ecc7a15d0b.png)
+
+Tabla de resultados obtenidos para el circuito
+
+![image](https://user-images.githubusercontent.com/105606339/171793442-1d407e7e-b77a-48ec-bdce-c98f0c807a62.png)
 
 **RESPUESTA A INTERROGANTES Y CÁLCULO DE ERROR**
+
+Resultados analíticos y resultados experimentales
+
+![image](https://user-images.githubusercontent.com/105606339/171792930-86a69b43-e6a3-4bf1-abb0-25e8a387fdbd.png)
+
+Resultados analíticos y resultados simulados
+
+![image](https://user-images.githubusercontent.com/105606339/171792767-bdcab312-29b1-4194-a5e9-5cf50cf022b7.png)
 
 **VIDEO**
 
